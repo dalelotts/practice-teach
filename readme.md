@@ -28,6 +28,7 @@ Working code for each of the activities listed below.
     { name: "HQ HOMES", supervisor: "Scott T Lukes", phone: "3033592915" },
     ...
 ]
+```
 
 ### What was the original issue date of the oldest licensed company?
 For ties, last company in the array wins.
@@ -41,3 +42,4 @@ Desired output
     { '2015': 131 },
     ...
 ]
+```
