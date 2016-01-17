@@ -22,6 +22,8 @@ Working code for each of the activities listed below.
 ### List all companies originally licensed in 2015
 
 ### What is the trade name, supervisor, and phone number of each company located in Arapahoe county?
+If trade name is not specified, use business name.
+
 ```json
 [
     { name: "ECHO SUMMIT PROPERTY MANAGEMENT", supervisor: "Scott T Lukes", phone: "3037688255" },
