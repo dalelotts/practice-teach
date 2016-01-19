@@ -3,7 +3,7 @@
 var companies = require('../data/companies.json');
 
 function countLicensedSince1996(memo, company) {
-	var issueDate = new Date(company['License First Issue Date']);
+	var issueDate = new Date(company['LicenseFirstIssueDate']);
 
 	if (issueDate.getFullYear() <= 1996) {
 		memo += 1;
